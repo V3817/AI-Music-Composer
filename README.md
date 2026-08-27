@@ -243,7 +243,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by Sak245**
+**Made with ❤️ by V3817**
 
 *Transform your musical imagination into reality*
 
